@@ -1,4 +1,10 @@
 # Toko Online Roti
-Project Toko Online Roti Lengkap dengan proses manufacturing
 
-UNTUK MASUK HALAMAN ADMIN SILAHKAN MASUK DENGAN MENAMBAHKAN /admin di akhir URL
+NAMA  : BERNADETH FIDELIA GALUH SAMODRO
+NIM   :12030122130162
+
+LOGIN SEBAGAI ADMIN : localhost/toko-roti-online/admin
+USERNAME  : admin
+PASSWORD  : admin
+
+PROGRAM ASLI
