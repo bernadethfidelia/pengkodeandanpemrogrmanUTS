@@ -34,3 +34,5 @@ SETELAH DI MODIFIKASI
 
 ![image](https://github.com/bernadethfidelia/pengkodeandanpemrogrmanUTS/assets/167250920/ddb3136e-cead-4f31-87f6-779e54e1c894)
 
+ERD
+![image](https://github.com/bernadethfidelia/pengkodeandanpemrogrmanUTS/assets/167250920/8f0e1290-01eb-4d72-b552-e7705f7709a3)
